@@ -48,3 +48,4 @@ if(flag==true)
     cout<<"almost sorted;";
 else cout<<" almost  not sorted;";
 }
+<br>
